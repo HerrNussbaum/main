@@ -34,7 +34,7 @@
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
+	--button-background: hsl(5.35, 81.347%, 62.157%);
 	--button-border:1px solid #ffffff;
 }
 
