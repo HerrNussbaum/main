@@ -42,7 +42,6 @@
 .button.button-physik {
 	--button-text: #8114b0 ;
 	--button-background: #0ac247;
-	background-image:linear-gradient(45deg, hsl(282 79.6% 38.4%) 0%, hsl(170 90% 60%),hsl(140 90% 40%) 100%);
 	--button-border:1px solid #8114b0 ;
 }
 
@@ -50,7 +49,6 @@
 .button.button-math {
 	--button-text: #ffffff ;
 	--button-background: #3df5d6;
-	background-image:linear-gradient(45deg, hsl(282 79.6% 38.4%) 0%, hsl(270 90% 40%), hsl(170 90% 60%) 100%);
 	--button-border:1px solid #ffffff ;
 }
 
