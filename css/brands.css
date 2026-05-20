@@ -48,16 +48,16 @@
 
 /* Default */
 .button.button-physik1 {
-	--button-text: #000000;
-	--button-background: #FFFFFF ;
-	--button-border:1px solid #000000;
+	--button-text: #FFFFFF;
+	--button-background: #000000 ;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Default */
 .button.button-physik2 {
-	--button-text: #000000 ;
-	--button-background: #FFFFFF ;
-	--button-border:1px solid #000000 ;
+	--button-text: #FFFFFF ;
+	--button-background: #000000 ;
+	--button-border:1px solid #FFFFFF ;
 }
 
 /* Default */
