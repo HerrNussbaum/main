@@ -48,16 +48,16 @@
 
 /* Default */
 .button.button-physik1 {
-	--button-text: #000000 ;
-	--button-background: hsl(282 79.6% 38.4%);
-	--button-border:1px solid #000000 ;
+	--button-text: #FFFFFF ;
+	--button-background: #000000 ;
+	--button-border:1px solid #FFFFFF ;
 }
 
 /* Default */
 .button.button-physik2 {
-	--button-text: #000000 ;
-	--button-background: hsl(140 90% 40%);
-	--button-border:1px solid #000000 ;
+	--button-text: #FFFFFF ;
+	--button-background: #000000 ;
+	--button-border:1px solid #FFFFFF ;
 }
 
 /* Default */
@@ -70,16 +70,16 @@
 
 /* Default */
 .button.button-math1 {
-	--button-text: #000000 ;
-	--button-background: hsl(282 79.6% 38.4%);
-	--button-border:1px solid #000000 ;
+	--button-text: #FFFFFF ;
+	--button-background: #000000 ;
+	--button-border:1px solid #FFFFFF ;
 }
 
 /* Default */
 .button.button-math2 {
-	--button-text: #000000 ;
-	--button-background: hsl(170 90% 60%);
-	--button-border:1px solid #000000 ;
+	--button-text: #FFFFFF ;
+	--button-background: #000000 ;
+	--button-border:1px solid #FFFFFF ;
 }
 
 
