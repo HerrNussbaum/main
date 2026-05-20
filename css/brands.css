@@ -38,6 +38,21 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Default */
+.button.button-physik {
+	--button-text: #8114b0 ;
+	--button-background: #0ac247;
+	--button-border:1px solid #8114b0 ;
+}
+
+/* Default */
+.button.button-math {
+	--button-text: #ffffff ;
+	--button-background: #3df5d6;
+	--button-border:1px solid #ffffff ;
+}
+
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
